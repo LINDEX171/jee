@@ -13,7 +13,7 @@ public class ProduitServlet extends HttpServlet {
 
     @Override
     public void init() throws ServletException {
-
+//son
     }
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
